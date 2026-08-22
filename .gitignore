@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# Logs & Debugging
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data & PID files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build & Output directories
+dist/
+build/
+out/
+
+# IDEs & Code Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary files & Caches
+.cache/
+.npm
+.eslintcache
